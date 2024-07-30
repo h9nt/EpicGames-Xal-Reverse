@@ -6,7 +6,7 @@
 
 # Explaination
 
-Thats the Rc4 Algorithm they use in [**js/py**]
+Thats the Rc4 Algorithm they use in [**js**]
 ```js
 function Rc4(a) {
       var b;
