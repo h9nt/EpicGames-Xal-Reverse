@@ -8852,11 +8852,5 @@
     }
     getFp();
     makeXal();
-
-    async function getBm() {
-      const infos = ba();
-      document.getElementById("v2").innerHTML = JSON.stringify(infos, null, 2);
-    }
-    getBm();
   })();
 })();
