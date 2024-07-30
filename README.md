@@ -69,3 +69,4 @@ fp_data = { # The Fp data can u get in the index.html file on the site that i ma
 }
 print(Rc4(fp_data))
 ```
+# You don't even have to decrypt it, cuz its always new and different, so encrypt is most important.
