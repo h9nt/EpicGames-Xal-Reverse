@@ -3,6 +3,7 @@
 
 - You Will Find the Algorithm , thats use Rc4 to encrypt the Fp Data , in the js file at line [**6880**]
 - I made it in python that u can easy use it there for this look at the **main.py** file.
+- You can get your Fp Data here: [<a href="https://h9nt.github.io/EpicGames-Xal-Reverse/">**Click here**</a>]
 
 # Explaination
 
