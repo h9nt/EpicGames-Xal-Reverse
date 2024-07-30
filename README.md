@@ -9,7 +9,7 @@
 
 Thats the Rc4 Algorithm they use in [**js**]
 ```js
-function Rc4(a) {
+function Rc4(a) { // Without key, cuz its not in the function implemented, but u will find it in the js file at line (6817)
       var b;
       var c = unescape(encodeURIComponent(JSON.stringify(a)));
       var d = [];
