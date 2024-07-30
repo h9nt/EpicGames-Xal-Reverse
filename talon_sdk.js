@@ -8837,10 +8837,10 @@
       ).then();
     }
 
-    async function makeXal() {
-      const xal = await Rc4(getFp());
-      document.getElementById("xal").innerHTML = xal;
-    }
+    // async function makeXal() {
+    //   const xal = await Rc4(getFp());
+    //   document.getElementById("xal").innerHTML = xal;
+    // }
 
     async function getFp() {
       const result = await Rb();
